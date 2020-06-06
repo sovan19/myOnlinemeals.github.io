@@ -55,6 +55,17 @@ padding: 3px 68px;
 #contact-box form{
     width: 80%;
 }
+#contact-box label{
+    font-size: 1.2rem;   
+}
+#contact-box input,
+#contact-box textarea{
+    
+    padding: 0.2rem;
+    border-radius: 13px;
+    font-size: 1.1rem;
+  
+}
 .h-primary{
     font-size: 26px;
 }
