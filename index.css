@@ -20,8 +20,8 @@ html{
 #navbar:before{
     top:0px;
     left: 0px;
-    background-image: linear-gradient(violet,indigo,blue,green,yellow,orange,red);
-    /* background-color: rgb(15, 7, 15); */
+/*     background-image: linear-gradient(violet,indigo,blue,green,yellow,orange,red); */
+    background-color: rgb(15, 7, 15);
     content:"";
     position: absolute;
     height: 100%;
